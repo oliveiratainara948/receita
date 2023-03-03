@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<meta charset="utf-8">
+	<title>Meu cãozinho</title>
+</head>
+
+<body>
+
+	<h1>Meu amigocão - Pet Shop</h1>
+	<h2>Home</h2>
+	<ul>	
+		<li><a href="index.html">Home</li></a>
+		<li><a href="quemsomos.html">Quem somos</a></li>
+		<li><a href="produtos.html">Produtos</a></li>
+	</ul>
+
+</body>
+
+</html>
